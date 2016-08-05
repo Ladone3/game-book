@@ -1,0 +1,2 @@
+// id,block_id,type,title,modificator
+1,2,Воспоминание,Взлёт вертолёта,+6
